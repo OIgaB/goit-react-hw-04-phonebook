@@ -18,7 +18,6 @@ export const ContactList = ({ contacts, onDeleteContact }) => {    // contacts -
             ))}
         </ListContainer>
     );
-    
 }
 
 ContactList.propTypes = {
